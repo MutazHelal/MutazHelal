@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a seriously skilled Full Stack Engineer with 6 years of experience under my belt.<br><br>I live and breathe React.js, Vue.js, Node.js, Python, AI, and pretty much every other technology out there.<br><br>I've got a real knack for taking business requirements and turning them into awesome development plans.<br>Let's make some magic!</p>
+<p align="left">I'm a seriously skilled Full Stack Engineer with 6 years of experience under my belt.<br>I've got a real knack for taking business requirements and turning them into awesome development plans.<br>Let's make some magic!</p>
 
 ###
 
